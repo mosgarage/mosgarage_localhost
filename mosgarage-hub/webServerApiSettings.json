@@ -1,0 +1,8 @@
+{
+    "webServerPort": 8080,
+    "webSocketPort": 3000,
+    "FilesDirectory": "MosgarageHub",
+    "useTerminalOutputCapture": true,
+    "useTerminalOutputAnsiStrip": false,
+    "useTerminalOutputToHtml": true
+}
